@@ -22,12 +22,17 @@ java Calculator
 Enter your choice and numbers to perform operations.
 
 🖥️ Example Usage
+
 Enter first number: 10
+
 Enter second number: 5
+
 Choose operation: 1) Add 2) Subtract 3) Multiply 4) Divide
+
 Choice: 1
 
 Result: 15
+
 🛠️ Tech Stack
 Language: Java
 
