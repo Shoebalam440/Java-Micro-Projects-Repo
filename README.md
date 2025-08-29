@@ -29,6 +29,7 @@ Open the project in your IDE.
 Compile and run:
 
 javac FileName.java
+
 java FileName
 
 🤝 Contributing
